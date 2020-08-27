@@ -1,4 +1,4 @@
-# uni-template-news
+# news-app
 基于uni-app开发的新闻/资讯类App模板
 
 ## 体验方式
